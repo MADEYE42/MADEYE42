@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gouresh Madye</h1>
-<h3 align="center">Hi, I'm Gouresh Madye, a passionate 2nd-year undergrad in Computer Engineering. I love exploring the intersections of technology and creativity. Follow along aas I delve into coding💻, design🎨, and everything in between on my journey to innovate and learn.</h3>
+<h3 align="center">Dedicated and motivated Computer Engineering undergraduate student with a passion for innovative
+technologies seeking internship opportunities to apply classroom knowledge in real-world scenarios and
+contribute to cutting-edge projects in the field
+</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madeye42&label=Profile%20views&color=0e75b6&style=flat" alt="madeye42" /> </p>
 
