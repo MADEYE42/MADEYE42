@@ -10,7 +10,7 @@ contribute to cutting-edge projects in the field
 
 - 🌱 I’m currently learning **Reactjs and Flutter**
 
-- 👨‍💻 All of my projects are available at [https://madeye42.github.io/Portfolio-Website/](https://madeye42.github.io/Portfolio-Website/)
+- 👨‍💻 All of my projects are available at [https://portfolio-website-gouresh-madye.vercel.app/](https://portfolio-website-gouresh-madye.vercel.app/)
 
 - 💬 Ask me about **Machine Learning,Web3**
 
