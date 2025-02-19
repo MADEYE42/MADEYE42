@@ -50,6 +50,6 @@ I'm a passionate engineering student at Vivekanand Education Society's Institute
 ## 📫 Connect with Me
 
 - **Email:** [gmadye13@gmail.com](mailto:gmadye13@gmail.com)
-- **GitHub:** [@MADEYE42](https://github.com/MADEYE42)
-- **LinkedIn:** [Gouresh Madye](http://www.linkedin.com/in/gouresh-madye-a68aa6235)
-- **Portfolio:** [Gouresh Madye](https://portfolio-website-gouresh-madye.vercel.app/)
+- **GitHub:** [GitHub](https://github.com/MADEYE42)
+- **LinkedIn:** [LinkedIn](http://www.linkedin.com/in/gouresh-madye-a68aa6235)
+- **Portfolio:** [Portfolio](https://portfolio-website-gouresh-madye.vercel.app/)
