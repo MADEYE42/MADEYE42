@@ -16,7 +16,7 @@ I'm a passionate engineering student at Vivekanand Education Society's Institute
 **Bachelor of Engineering**  
 *Vivekanand Education Society's Institute of Technology (VESIT)*  
 2022 - Present | Mumbai, India  
-- **Aggregate CGPA:** 8.60/10 (up to SEM 5)  
+- **Aggregate CGPA:** 8.83/10 (up to SEM 5)  
 - **Relevant Coursework:** Data Structures and Algorithms, Python Programming, Discrete Structures and Graph Theory, DBMS, OOPS
 
 ## 🏆 Achievements & Leadership
